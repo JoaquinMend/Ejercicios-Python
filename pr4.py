@@ -1,0 +1,7 @@
+a = int(input("Inserte el valor de a: "))
+b = int(input("Inserte el valor de b: "))
+c = int(((4*(a**4)) + (3*b*a) + (b**2)) / ((a**2)-(b**2)))
+d = int(((3*(c**2)) + a + b) / 4)
+print("")
+print("c: " + str(c))
+print("d: " + str(d))

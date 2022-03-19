@@ -1,0 +1,6 @@
+h = int(input("Ingrese la cantidad de horas: "))
+m = int(h*60)
+s = int(h*3600)
+print("")
+print("Minutos: " + str(m))
+print("Segundos: " + str(s))

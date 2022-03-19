@@ -1,0 +1,6 @@
+l = int(input("Ingrese el valor del lado: "))
+p = int(l*4)
+A = int(l**2)
+print("")
+print("Perímetro: " + str(p))
+print("Área: " + str(A))

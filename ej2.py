@@ -1,0 +1,7 @@
+n1 = int(input("Número 1: "))
+n2 = int(input("Número 2: "))
+c = int(n1/n2)
+r = int(n1%n2)
+print("")
+print("Cociente: " + str(c))
+print("Residuo: " + str(r))
